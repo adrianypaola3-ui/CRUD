@@ -27,10 +27,14 @@ SEGURANÇA:
     "cors": "^2.8.6",
     "express": "^5.2.1",
     "express-session": "^1.19.0",
+     "mongoose": "^9.7.2"
+  }
+}
 
 Porta de comunicação: 3000
 RESUMO:
 O usuario pode utiliza-lo pois, possui segurança, os metodos HTTTP em ordem.
-    "mongoose": "^9.7.2"
-  }
-}
+
+# FUNCIONALIDADES:
+nome e salario do usuario com botoes de inserir, deletar e editar.
+   
