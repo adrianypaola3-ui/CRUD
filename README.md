@@ -32,6 +32,7 @@ SEGURANÇA:
 }
 
 Porta de comunicação: 3000
+
 RESUMO:
 O usuario pode utiliza-lo pois, possui segurança, os metodos HTTTP em ordem.
 
